@@ -2,6 +2,6 @@ Section 11:
 
 - Eng. Métwalli
 
-- Form Validation (Full-Stack Mini Project)
-=====================================
-    - Review PDF: Section11_Web_Metwalli.pdf
+- Just Hit Backend on Form Submit with Validation (Full-Stack Mini Project)
+    - For TechStack understanding:
+        - Review PDF: Section11_Web_Metwalli.pdf
